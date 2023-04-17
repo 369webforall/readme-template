@@ -1,8 +1,7 @@
-
-
 # Project Name: Hello Velisa Africa Academy!
 
 # Description
+
 This is a professional README.md
 
 ## Built With
@@ -11,6 +10,7 @@ This is a professional README.md
 - CSS
 
 ## Getting Started
+
 **Author1**
 
 - Create a new GitHub repo.
@@ -26,14 +26,15 @@ This is a professional README.md
 - Open a pull request.
 
 ## Prerequisite
+
 - Install Git.
 - Install Vs code or any text editor.
 
 👤 **Author1**
 
-- GitHub: @187jjay187
-- Twitter: @187jjay187
-- LinkedIn: Jerome Osman
+- GitHub: @369webforall
+- Twitter: @369webforall
+- LinkedIn: 369webforall
 
 ## 🤝 Contributing
 
